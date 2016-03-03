@@ -1,0 +1,3 @@
+var provinceListJSON = [{"id":"1","text":"Buenos Aires"},{"id":"2","text":"Capital Federal"},{"id":"3","text":"Catamarca"},{"id":"4","text":"Chaco"},{"id":"5","text":"Chubut"},{"id":"6","text":"Córdoba"},{"id":"7","text":"Corrientes"},{"id":"8","text":"Entre Rí­os"},{"id":"9","text":"Formosa"},{"id":"10","text":"Jujuy"},{"id":"11","text":"La Pampa"},{"id":"12","text":"La Rioja"},{"id":"13","text":"Mendoza"},{"id":"14","text":"Misiones"},{"id":"15","text":"Neuquén"},{"id":"16","text":"Río Negro"},{"id":"17","text":"Salta"},{"id":"18","text":"San Juan"},{"id":"19","text":"San Luis"},{"id":"20","text":"Santa Cruz"},{"id":"21","text":"Santa Fe"},{"id":"22","text":"Santiago del Estero"},{"id":"23","text":"Tierra del Fuego"},{"id":"24","text":"Tucumán"}];
+
+var CABA_ID = 2;
